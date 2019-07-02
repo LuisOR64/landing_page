@@ -1,0 +1,111 @@
+body,html{
+    height: 134%;
+    width: 100%;
+}
+.arriba{
+    background-color: black;
+    color: aliceblue;
+    height: 37px;
+}
+.color{
+    background-color: aliceblue;
+    padding: 0;
+    margin: 0;
+}
+.contenedor{
+    width: 100%;
+    position: relative;
+}
+.absoluto{
+    position: absolute;
+    z-index: 10000;
+}
+header{
+    background-color: aliceblue;
+    
+}
+.boton{
+    float: right;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 4px;
+}
+.centrar-texto{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+    height: 60%;
+}
+.transformar :hover{
+    background-color: black;
+    -webkit-transform: scale(1.04); transform: scale(1.02)
+}
+img{
+    max-width: 100%;
+}
+.logo{
+    display: inline-block;
+    
+}
+main{
+    height: 40%;
+    
+}
+.floro{
+ height: 100%;
+ border: 1px solid red;
+}
+.marcas{
+    margin: 0px 20px 0px 0px;
+}
+#marca{
+    padding: 10px 0px 10px 0px;
+    border-bottom: 1px solid #333;
+}
+.sociales{
+    margin: 0px 20px 0px 0px;
+}
+#social{
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px solid #333;
+}
+#boton{
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px solid #333;
+}
+.pulsador{
+    color: aliceblue;
+    background-color: grey;
+    border: 1px solid gray;
+}
+#pulsador{
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px solid #333;
+}
+ul{
+    list-style: none;
+    text-decoration: none!important;
+    padding: 20px 0px 20px 0px;
+}
+#listas ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+#listas li {
+    float: left;
+    
+}
+#listas  a{
+    color: aliceblue;
+}
+a{
+    margin: 0px 20px 0px 0px;
+    
+}
+#imagenes{
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px solid #333;
+}
+#emcabezado{
+    padding: 20px 0px 20px 0px;
+}

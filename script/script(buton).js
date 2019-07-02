@@ -6,6 +6,7 @@ window.onload = function(){
     // section3.setAttribute('display', 'none');
     section3.style.display = 'none';
 
+    
     buton.onclick = function(event){
         // event.preventDefault();
 
