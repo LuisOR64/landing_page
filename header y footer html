@@ -17,9 +17,9 @@
         <button class="boton">
                 こんにちはお元気ですか
         </button>
-        <h5 >
-                Square enix
-        </h5>
+       <div>
+           <img src="./icono e imagenes/logo-black.gif" >
+       </div>
     </div>
     <header class="content-fluid arriba">
 
@@ -110,6 +110,10 @@
             <li></li> <a href=""> ライセンス   |</a></li>
 
         </ul>
+    </div>
+    <div id="creditos">
+        © Disney. © Disney/Pixar.
+        Developed by SQUARE ENIX
     </div>
 
     </footer>
