@@ -1,5 +1,5 @@
 body,html{
-    height: 150%;
+    height: 134%;
     width: 100%;
 }
 .arriba{
@@ -29,6 +29,7 @@ header{
     background-color: red;
     border: 1px solid red;
     border-radius: 4px;
+    color: aliceblue
 }
 .centrar-texto{
     text-align: center;
@@ -38,7 +39,7 @@ header{
 }
 .transformar :hover{
     background-color: black;
-    -webkit-transform: scale(1.04); transform: scale(1.02)
+    /* -webkit-transform: scale(1.04); transform: scale(1.02) */
     
 
  
@@ -113,3 +114,10 @@ a{
 #emcabezado{
     padding: 20px 0px 20px 0px;
 }
+#listas{
+    border-bottom: 1px solid #333;
+}
+#creditos{
+    padding: 20px 0px 20px 0px;
+}
+
