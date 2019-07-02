@@ -1,0 +1,107 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    border: 1px, red solid;
+}
+
+html, body{
+    height: 210%;
+    width: 210%;
+} */
+/* 
+#section1{
+    background-image: src("./../assets/img/section1.png");
+} */
+
+body{
+    background-image: src("./../assets/img/video.mp4");
+}
+
+#video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%; 
+}
+
+#section1{
+    background-color: cornflowerblue;
+    height: 400px;
+}
+
+#section2{
+    background-color: aqua;
+    background-image: url("./../assets/img/fondo_1.png");
+    color: white;
+    font-weight: bold;
+}
+
+#section3{
+    height: 500px;
+    /* background-color: chartreuse; */
+    background-image: url("./../assets/img/fondo_2.png");
+    color: white;
+    font-weight: bold;
+    /* display: none; */
+    transition: 0.2s;
+}
+
+#section4{
+    height: 400px;
+    /* background-color: aquamarine; */
+    background-image: url("./../assets/img/fondo_3.png");
+}
+
+#section5{
+    height: 350px;
+    /* background-color: coral; */
+    background-image: url("./../assets/img/texture.jpg");
+}
+
+#section6{
+    height: 220px;
+    background-color: cornflowerblue;
+}
+
+.card{
+    height: 140px;
+    width: 140px;
+}
+
+.subsection{
+    width: 200%;
+}
+
+#cd00{
+    background-image: url("./../assets/img/index.jpg");
+}
+#cd01{
+    background-image: url("./../assets/img/sora.jpg");
+}
+#cd02{
+    background-image: url("./../assets/img/donald.jpg");
+}
+#cd03{
+    background-image: url("./../assets/img/riku.jpg");
+}
+#cd04{
+    background-image: url("./../assets/img/kairy.jpg");
+}
+#cd05{
+    background-image: url("./../assets/img/king_m.jpg");
+}
+#cd06{
+    background-image: url("./../assets/img/male.jpg");
+}
+#cd07{
+    background-image: url("./../assets/img/pete.jpg");
+}
+#cd08{
+    background-image: url("./../assets/img/13.jpg");
+}
+
+p{
+    margin-top: 5px;
+}
+
